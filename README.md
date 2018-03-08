@@ -83,7 +83,7 @@
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Producte</h4>
-            <p class="text-muted">Avui en dia tot gira entorn del disseny i decoració dels nostres entorns, a més a més cada dia apreciem més les tecnologies que ens envolten, així que, que millor que adquirí una <span onkeypress="MORFOLOGIK_RULE_CA_ES---#---0---#---Possible error ortogràfic---#---Empara#Làmpada#Mampara#Llampera#Tempera#Dempere#Lapera#Sempere#Tampere#Ampere#Campara#Camparà#Campera#Empare#Emparà#Lempira#Llampara#Llamparà#Tempere#Temperà---#---Lampara---#---...n, aixi que, que millor que adquiri una Lampara Led per a decorar els Teus espais---#---43">Llum</span> Led per a decorar els teus <span onkeypress="PUNT_FINAL---#---1---#---Si no és un títol, falta un punt al final de la <br/>frase.---#------#---espais---#---... una Lampara Led per a decorar els Teus espais---#---43">espais.</span></p>
+            <p class="text-muted">Avui en dia tot gira entorn del disseny i decoració dels nostres entorns, a més a més cada dia apreciem més les tecnologies que ens envolten, així que, que millor que adquirí una <span onkeypress="MORFOLOGIK_RULE_CA_ES---#---0---#---Possible error ortogràfic---#---Empara#Làmpada#Mampara#Llampera#Tempera#Dempere#Lapera#Sempere#Tampere#Ampere#Campara#Camparà#Campera#Empare#Emparà#Lempira#Llampara#Llamparà#Tempere#Temperà---#---Lampara---#---...n, aixi que, que millor que adquiri una Lampara Led per a decorar els Teus espais---#---43">Llum</span> Led per a decorar els teus <span onkeypress="PUNT_FINAL---#---1---#---Si no és un títol, falta un punt al final de la <br/>frase.---#------#---espais---#---... una Lampara Led per a decorar els Teus espais---#---43">espais.</span></p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -91,7 +91,7 @@
               <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Qui som?</h4>
-            <p class="text-muted">Al principi tot va començar per experimentar, amb plaques Arduino, les quals serveixen per a programar sensors per tal de crear diversos utensilis per facilitar-nos les vides, això més la nostra passió pel món del disseny va influenciar en la creació d'aquesta Empresa.</p>
+            <p class="text-muted">Al principi tot va començar per experimentar, amb plaques Arduino, les quals serveixen per a programar sensors per tal de crear diversos utensilis per facilitar-nos les vides, això més la nostra passió pel món del disseny va influenciar en la creació d'aquesta Empresa.</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -111,8 +111,8 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Components</h2>
-            <h3 class="section-subheading text-muted">Aquí tens els nostres components i les seves funcions.</h3>
+            <h2 class="section-heading text-uppercase">Components i Notícies</h2>
+            <h3 class="section-subheading text-muted">Aquí tens els nostres components i les últimes notícies</h3>
           </div>
         </div>
         <div class="row">
@@ -140,7 +140,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
               <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Mòdul detector de sons</h4>
+              <h4>Mòdul detector de sons</h4>
               <p class="text-muted">sensor de sonido</p>
             </div>
           </div>
@@ -169,7 +169,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
             </a>
             <div class="portfolio-caption">
               <h4>Lámparas LED</h4>
-              <p class="text-muted">Emissor de Llum</p>
+              <p class="text-muted">Emissor de Llum</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -182,8 +182,8 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
               <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Recipient de vidre cilíndric</h4>
-              <p class="text-muted">Lampada</p>
+              <h4>LedLamp la làmpada que escolta Música</h4>
+              <p class="text-muted">Finalment és aquí la làmpada que tothom vol tenir</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item">
@@ -196,8 +196,8 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
               <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Canonada de PVC</h4>
-              <p class="text-muted">Base per als Leds</p>
+              <h4>El primer invent de LEDLAMP</h4>
+              <p class="text-muted">LEDLAMP l'empresa dedicada al món d'Arduino s'estrena.</p>
             </div>
           </div>
         </div>
@@ -223,10 +223,10 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Abril del 2017                    </h4>
-                    <h4 class="subheading">Primer contacte amb Arduino</h4>
+                    <h4 class="subheading">Primer contacte amb Arduino</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Per primera vegada a classe, comencem a fer proves amb les plaques Arduino, on vam començar a entendre i aprendre com funcionaven i com programar-les, finalment vam acabar un dels primers treballs, el qual tractava de crear un cotxe dirigit.</p>
+                    <p class="text-muted">Per primera vegada a classe, comencem a fer proves amb les plaques Arduino, on vam començar a entendre i aprendre com funcionaven i com programar-les, finalment vam acabar un dels primers treballs, el qual tractava de crear un cotxe dirigit.</p>
                   </div>
                 </div>
               </li>
@@ -236,11 +236,11 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>Setembre 2017</h4>
+                    <h4>Setembre 2017</h4>
                     <h4 class="subheading">Neix la idea</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Després de buscar i pensar diversos projectes que poder realitzar amb Arduino, la inspiració va arribar, barrejant altres passions com la música i els Leds, <span onkeypress="PRONOMS_FEBLES_DAVANT_VERB---#---13---#---Apostrofació incorrecta.---#---sen es---#---sen's---#---...tres passions com la música i els Leds, sen's acudeix de crear una Làmpada capaç de s...---#---43">sen's</span> acudeix de crear una Làmpada capaç de seguir el ritme de la <span onkeypress="PUNT_FINAL---#---1---#---Si no és un títol, falta un punt al final de la <br/>frase.---#------#---música---#---... Làmpada capaç de seguir el ritme de la música---#---43">música</span></p>
+                    <p class="text-muted">Després de buscar i pensar diversos projectes que poder realitzar amb Arduino, la inspiració va arribar, barrejant altres passions com la música i els Leds, <span onkeypress="PRONOMS_FEBLES_DAVANT_VERB---#---13---#---Apostrofació incorrecta.---#---sen es---#---sen's---#---...tres passions com la música i els Leds, sen's acudeix de crear una Làmpada capaç de s...---#---43">sen's</span> acudeix de crear una Làmpada capaç de seguir el ritme de la <span onkeypress="PUNT_FINAL---#---1---#---Si no és un títol, falta un punt al final de la <br/>frase.---#------#---música---#---... Làmpada capaç de seguir el ritme de la música---#---43">música</span></p>
                   </div>
                 </div>
               </li>
@@ -254,7 +254,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
                     <h4 class="subheading">Comença el treball.</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Una vegada decidit el nostre objectiu, vam començar amb l'etapa de recerca i experimentació en la qual vam aconseguir tot el material necessari per a poder portar a terme el nostre projecte, i a més també vam començar amb la construcció d'un conjunt de social <span onkeypress="MORFOLOGIK_RULE_CA_ES---#---0---#---Possible error ortogràfic---#---natures#netors---#---networks---#---...b la construcció d'un conjunt de social networks amb les quals ens vam poder donar a con...---#---43">networks</span> amb les quals ens vam poder donar a conèixer i a la vegada començar a tenir contacte amb els usuaris.</p>
+                    <p class="text-muted">Una vegada decidit el nostre objectiu, vam començar amb l'etapa de recerca i experimentació en la qual vam aconseguir tot el material necessari per a poder portar a terme el nostre projecte, i a més també vam començar amb la construcció d'un conjunt de social <span onkeypress="MORFOLOGIK_RULE_CA_ES---#---0---#---Possible error ortogràfic---#---natures#netors---#---networks---#---...b la construcció d'un conjunt de social networks amb les quals ens vam poder donar a con...---#---43">networks</span> amb les quals ens vam poder donar a conèixer i a la vegada començar a tenir contacte amb els usuaris.</p>
                   </div>
                 </div>
               </li>
@@ -268,7 +268,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
                     <h4 class="subheading">El mal de cap de la Programació</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Una vegada que vam aconseguir que tots els components funcionessin entre ells, sense que cap explotes o deixes de funcionar, vam començar amb l'etapa de programació, segurament de les més dures, però gràcies a diferents codis trobat per internet i proves vam aconseguir el codi per a poder crear aquest objecte decoratiu.</p>
+                    <p class="text-muted">Una vegada que vam aconseguir que tots els components funcionessin entre ells, sense que cap explotes o deixes de funcionar, vam començar amb l'etapa de programació, segurament de les més dures, però gràcies a diferents codis trobat per internet i proves vam aconseguir el codi per a poder crear aquest objecte decoratiu.</p>
                   </div>
                 </div>
               </li>
@@ -288,7 +288,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">equip DE Treball</h2>
+            <h2 class="section-heading text-uppercase">equip DE Treball</h2>
             <h3 class="section-subheading text-muted">tot el personal que ens forma</h3>
           </div>
         </div>
@@ -368,7 +368,7 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">Tots junts lluitem perquè a poc a poc aquesta empresa vagi tenint un nom més conegut i a la vegada fer feliços a més persones amb els nostres productes.</p>
+            <p class="large text-muted">Tots junts lluitem perquè a poc a poc aquesta empresa vagi tenint un nom més conegut i a la vegada fer feliços a més persones amb els nostres productes.</p>
           </div>
         </div>
       </div>
@@ -456,18 +456,14 @@ A més a més inclouen unes instruccions d'ús i una garantia per qualsevol prob
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
+              <li class="list-inline-item"> <a href="https://twitter.com/LightSpaceFutur?lang=es"target="_blank"> <em class="fa fa-twitter"></em> </a> </li>
               <li class="list-inline-item">
-                <a href="#">
-                  <i class="fa fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/josemiguel.juanjo.3"target="_blank">
                   <i class="fa fa-facebook"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/josemiguel.juanjo.3"target="_blank">
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>
@@ -640,14 +636,14 @@ La seva funció és la d'interconnectar tots els components, i finalment interpr
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Recipient de vidre cilindric</h2>
-                  <p class="item-intro text-muted">Recipient per donar l'efecte decoratiu</p>
+                  <h2 class="text-uppercase">LedLamp la làmpada que escolta Música </h2>
+                  <p class="item-intro text-muted">La làmpada capaç d'escoltar el so de l'ambient i adaptar-se a ell </p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
-                  <p>Es tracta d'un recipient de vidre de forma circular, la qual serveix per a recobrir tot el circuit i el conjunt de Leds, per tal de causar els efectes decoratius desitjats </p>
+                  <p>La làmpada led, es tracta d'un projecte portat a terme per l'empresa LEDLAMP, el qual es tracta d'una làmpada capaç d'escoltar el so de l'ambient i adaptar els seus leds a la música escoltada. Segons els seus creadors en un principi solament tenien pensat crear una llum que és puguis adaptar a l'espai on és col·loques i segons les necessitats de l'usuari, però durant el transcurs del projecte se'ls va ocórrer la idea de junta el món de l'audició amb aquest projecte i així va néixer aquesta idea. </p>
                   <ul class="list-inline">
-                    <li>Recipient</li>
-                    <li>Marca: Ikea</li>
-                    <li>Disseny</li>
+                    <li>2 Micro B</li>
+                    <li>Marca: LEDLAMP</li>
+                    <li>Axel Pauliac</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fa fa-times"></i>
@@ -674,14 +670,19 @@ La seva funció és la d'interconnectar tots els components, i finalment interpr
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 class="text-uppercase">Canonada de PVC</h2>
-                  <p class="item-intro text-muted">Objecte encarregat del suport de Leds.</p>
+                  <h2 class="text-uppercase">El primer invent de LEDLAMP</h2>
+                  <p class="item-intro text-muted">LEDLAMP l'empresa dedicada al món d'Arduino s'estrena.</p>
                   <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
-                  <p>Per aquest pas es podria utilitzar qualsevol tipus de material capaç de donar la utilitat de suport per als leds, en el nostre cas fem servir la canonada, ja que ofereix la forma de circumferència i a més és perfecta per a enrotllar els leds</p>
+                  <p>El dia 01 de març del 2018, l'empresa LEDLAMP va treure al mercat el seu nou invent, LEDLAMP. Segons els detalls donats per l'empresa es tracta d'un invent per a totes les noves generacions enamorades del món dels leds. A més a més la mateixa empresa acaba d'obrir les seves noves xarxes socials, on es pot anar seguint totes les novetats, i a l'hora informar-se sobre el treball realitzat per tots els empleats en el disseny de nous invents, i noves idees.</p> 
+
+					<p> Les diferents xarxes socials que han obert són les següents:</p>
+					<p><a href="https://twitter.com/lightspacefutur">TWITTER</a></p>
+					<p><a href="https://www.facebook.com/josemiguel.juanjo.3">FACEBOOK</a></p>
+					<p><a href="https://www.youtube.com/channel/UCbaKzKqAKSbKI1qlSeH-SUg?view_as=subscriber">YouTube</a></p>
                   <ul class="list-inline">
-                    <li>Material</li>
-                    <li>Marca: Opcional</li>
-                    <li>Material de bricolatge.</li>
+                    <li>2 Micro B</li>
+                    <li>Marca: LEDLAMP</li>
+                    <li>Axel Pauliac</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fa fa-times"></i>
